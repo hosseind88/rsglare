@@ -1,2 +1,2 @@
 # rsglare
-A simple Python RayTracer
+A simple Rust RayTracer
