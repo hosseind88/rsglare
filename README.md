@@ -1,4 +1,4 @@
-A rsglare that I wrote in rust
+A raytracer that I wrote in rust
 
 ### Quickstart:
 
