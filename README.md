@@ -1,4 +1,4 @@
-A rsglare that I wrote in rust
+A raytracer that I wrote in rust
 
 to run the rsglare:
     cargo run --release scenes/test.json out.png
