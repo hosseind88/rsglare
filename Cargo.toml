@@ -1,0 +1,11 @@
+[package]
+name = "rsglare"
+version = "0.1.0"
+authors = ["Hossein Dindar <hosseind2017@gmail.com>"]
+
+[dependencies]
+serde = "0.9.7"
+serde_derive = "0.9.7"
+image = "0.12.3"
+serde_json = "0.9.6"
+clap = "2.20"
